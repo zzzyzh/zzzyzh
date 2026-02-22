@@ -12,7 +12,3 @@
 
 ## 📊 GitHub Stats 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=zzzyzh&repo=zzzyzh&countColor=%57068c)
-
-![zzzyzh's Stats](https://github-readme-stats.vercel.app/api?username=zzzyzh&theme=default&show_icons=true&hide_border=true&count_private=true)
-![zzzyzh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzyzh&theme=default&show_icons=true&hide_border=true&layout=compact&card_width=350)
-<!-- ![zzzyzh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zzzyzh&theme=default&hide_border=true) -->
