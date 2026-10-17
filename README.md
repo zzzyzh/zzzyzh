@@ -28,8 +28,8 @@
 
 - 🏫 I'm a Master's student at [BUPT](https://www.bupt.edu.cn/), [PRIS-CV](https://github.com/PRIS-CV).
 - 🎓 Advised by [Kongming Liang](https://griffinliang.github.io/) and [Zhanyu Ma](https://zhanyuma.cn/).
-- 🤖 **MLLM · Embodied AI · Generative AI · AI for X**.
-- 👀 I’m interested in ⚽ 📸 🏋️
+- 🤖 I focus on **MLLM · Embodied AI · Generative AI · AI for X**.
+- 👀 I’m interested in ⚽ 📸 🏋️ 🍺 🎮
 - 📫 Feel free to contact me: [zhonghao.yan@bupt.edu.cn](mailto:zhonghao.yan@bupt.edu.cn)
 
 <br clear="both">
